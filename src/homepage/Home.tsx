@@ -8,7 +8,7 @@ export default function Home() {
   return (
     <div id="home">
       <LatestTotal />
-      <LatestDaily />
+      {/* <LatestDaily /> */}
       <SearchHome />
     </div>
   );
